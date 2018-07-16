@@ -1,0 +1,60 @@
+{
+    "vendors" : {
+        "0" : {
+            "name": "Arnold Printing",
+            "contact": "Dustin Arnold",
+            "email": "dustin@arnoldprinting.com",
+            "phone": "513.324.9051",
+            "specialty": "Print",
+            "address": "630 Lunken Park Drive. Cincinnati, OH 45226",
+            "worked": "Yes"
+            },
+        "1" : {
+            "name": "Graphic Village",
+            "contact": "Brad Thiery",
+            "email": "bthiery@multi-craft.com",
+            "phone": "859.655.7382",
+            "specialty": "Print",
+            "address": "9933 Alliance Road. Cincinnati, OH 45242",
+            "worked": "Yes"
+            },
+        "2" : {
+            "name": "Rebel Pilgrim",
+            "contact": "Dana Makstaller",
+            "email": "dana@rebelpilgrim.com",
+            "phone": "513.314.9200",
+            "specialty": "Video",
+            "address": "708 Walnut St #750. Cincinnati, OH 45202",
+            "worked": "No"
+            },
+        "3" : {
+            "name": "Evolution Creative Solutions",
+            "contact": "Bob Miller",
+            "email": "bob.miller@evo-creative.com",
+            "phone": "513.864.3761",
+            "specialty": "Print",
+            "address": "7107 Shona Drive. Cincinnati, OH 45237",
+            "worked": "No"
+            },
+        "4" : {
+            "name": "Steve Paszt Photography",
+            "contact": "Steve Paszt",
+            "email": "steve@pasztphoto.com",
+            "phone": "513.608.1671",
+            "specialty": "Photography",
+            "address": "1241 Chase Avenue. Cincinnati, OH 45223",
+            "worked": "Yes"
+            }
+        },
+    "freelancers" : {
+        "0" : {
+            "name": "Amy Dagilis Design",
+            "contact": "Amy Dagilis",
+            "email": "dagiliay@mail.uc.edu",
+            "phone": "330.687.2794",
+            "specialty": "Graphic Design",
+            "address": "Bend, Oregon",
+            "worked": "Yes"
+        }
+    }
+}
